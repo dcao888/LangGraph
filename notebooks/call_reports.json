@@ -1,0 +1,26 @@
+[
+  {
+    "client": "PIMCO",
+    "datetime": "2026-01-17T12:00:00",
+    "topic": "Stock Pitch",
+    "duration": 30,
+    "meeting_type": "lunch",
+    "logged_at": "2026-01-17T23:18:46.482118"
+  },
+  {
+    "client": "BlackRock",
+    "datetime": "2026-01-17T10:00:00",
+    "topic": "Stock Pitch",
+    "duration": 30,
+    "meeting_type": "lunch",
+    "logged_at": "2026-01-17T23:35:32.206599"
+  },
+  {
+    "client": "BlackRock",
+    "datetime": "2024-01-15T12:00:00",
+    "topic": "Stock Pitch",
+    "duration": 30,
+    "meeting_type": "lunch",
+    "logged_at": "2026-01-17T23:51:41.212076"
+  }
+]

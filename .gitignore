@@ -1,3 +1,11 @@
 # Ignore all .env files
 **/.env
 **/.env.*
+
+# Python bytecode (recursive)
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints (recursive)
+**/.ipynb_checkpoints/
